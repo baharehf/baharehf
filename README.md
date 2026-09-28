@@ -48,7 +48,7 @@ I am currently strengthening my knowledge in:
 
 ## Tech Stack
 
-**Programming:** Python, C/C++  
+**Programming:** Python, C/C++, VHDL, Verilog  
 **Data:** Pandas, NumPy, GeoPandas, Matplotlib  
 **Embedded & Hardware:** FPGA, Embedded Systems, IoT Platforms  
 **Wireless:** LoRa, LPWAN, Wi-Fi, Wireless Experimentation  
